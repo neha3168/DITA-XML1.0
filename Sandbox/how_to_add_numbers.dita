@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_numbers">
+    <title>How to add numbers</title>
+    <shortdesc>This page describes the addition of two numbers as the application MyCalculator is
+        supposed to display upon successful operation.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_a11_5b2_zzb">To Successfully add number you should know what is
+            addition.</prereq>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the "-" button.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the "=" button.</cmd>
+            </step>
+        </steps>
+        <result id="result_p2g_3d2_zzb">The result from the addition operation is
+            displayed.</result>
+        <example id="example_bnv_kd2_zzb">If the numbers to be added are 3 and 4 then, the equation
+            must be 3+4=7, hence the result 7 must appear on the display.</example>
+    </taskbody>
+</task>

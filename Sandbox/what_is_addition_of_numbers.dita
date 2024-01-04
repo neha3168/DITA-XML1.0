@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_addition_of_numbers">
+    <title>What is addition of numbers?</title>
+    <shortdesc>Here  you will learn how to add numbers.</shortdesc>
+    <conbody>
+        <p>To add the numbers you must know what addition means.</p>
+        <p>Use + button to express the addition</p>
+        <p>In the addition process two numbers are added and the result is displayed.</p>
+        <fig id="fig_jmf_zsk_zzb"/>
+    </conbody>
+</concept>
