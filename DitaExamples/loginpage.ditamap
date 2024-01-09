@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>LoginPage</title>
+    <topichead navtitle="Login with Password">
+        <topicref href="loginwithpassword.dita"/>
+    </topichead>
+    <topichead navtitle="Reset Password">
+        <topicref href="forgotpassword.dita"/>
+    </topichead>
+    <topichead navtitle="Refresh Capcha">
+        <topicref href="reset_captcha.dita"/>
+    </topichead>
+</map>

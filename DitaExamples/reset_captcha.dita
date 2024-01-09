@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reset_captcha">
+    <title>Reset Captcha</title>
+    <shortdesc>Here we define the way to reset the captcha, if the existing captcha seems complex to
+        decode by the user.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Inorder to reset the captch if the current image seems complex, press on the
+                    reset button <image
+                        href="../../Pictures/Screenshots/Screenshot%202024-01-09%20213115.png"
+                        width="20" height="20" id="image_ew2_wsw_11c"/> right next to the captcha
+                    image. </cmd>
+            </step>
+        </steps>
+        <result id="result_u2t_wsw_11c">A new captcha image should now be visible to the
+            user.</result>
+    </taskbody>
+</task>
