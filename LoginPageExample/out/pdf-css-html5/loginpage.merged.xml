@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/MyBle/OneDrive/Desktop/LoginPageExample/loginpage.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">LoginPage</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">LoginPage</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="How to Login?"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d85e14">How to Login?</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="login_using_password"><resourceid appid="login_using_password" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Login using password</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This topic describes the process for the happy path(straight-forward login), by using         correct password and providing correct captcha.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="How to Reset Password?"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d85e27">How to Reset Password?</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="forgot_password"><resourceid appid="forgot_password" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Forgot Password</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here we define how to reset user password, if they forget their password.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="How to Reset Captcha?"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d85e40">How to Reset Captcha?</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="complex_captcha_reset"><resourceid appid="complex_captcha_reset" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Complex Captcha Reset</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here we define how to reset captcha incase the user finds it complex to         decode.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d85e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Login?</ph></title><task class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="login_using_password" oid="login_using_password" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Login using password</ph></title>
+    <shortdesc class="- topic/shortdesc ">This topic describes the process for the happy path(straight-forward login), by using
+        correct password and providing correct captcha.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_1_Connect_42_prereq_tvl_vcx_11c" nd:nd-id="prereq_tvl_vcx_11c">The end-user <b class="+ topic/ph hi-d/b ">must know the password</b> for the
+            login.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the login/ UserId for the Login, This is generally the email ID you have
+                    used to create your account.<image class="- topic/image " height="111" href="file:/C:/Users/MyBle/OneDrive/Desktop/LoginPageExample/Screenshot%202024-01-09%20213007.png" id="unique_1_Connect_42_image_xqd_ljx_11c" nd:nd-id="image_xqd_ljx_11c" placement="inline" width="111"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the password that was set while creating the account.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the capctha that appears in the Captcha box.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press <b class="+ topic/ph hi-d/b ">Enter</b> Key or click on Login button</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_1_Connect_42_result_ad3_gdx_11c" nd:nd-id="result_ad3_gdx_11c">The User will be successfully logged into the portal if the
+            UserId, Password and captcha are correct.</result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d85e27" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Reset Password?</ph></title><task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="forgot_password" oid="forgot_password" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Forgot Password</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here we define how to reset user password, if they forget their password.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_ttg_d2x_11c" nd:nd-id="prereq_ttg_d2x_11c">The user must have the active email Id or phone number that
+            was provided while creating their account, incase they forgot their password.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the <i class="+ topic/ph hi-d/i ">forgot password </i>link provided on the login page.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">A new page will open, containing a textbox to enter the emailId or phone number
+                    for password recovery.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the email Id or the phone number and click on the button "Reset
+                    Password".</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">An email containing the link to reset password, will be sent in the email
+                    provided, if it is the same email that was given at the time of account
+                    creation. Otherwise, an error message that the associated email is incorrect
+                    will appear </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If a phone number was provided at the time of account creation for resetting
+                    the password. Then a link will be directly sent as a message on the phone
+                    number. The password can be reset by clicking on the link.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_djh_x2x_11c" nd:nd-id="result_djh_x2x_11c">The users should be able to reset their password
+            successfully upon clicking the link received in their email or phone number.</result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d85e40" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Reset Captcha?</ph></title><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="complex_captcha_reset" oid="complex_captcha_reset" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Complex Captcha Reset</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here we define how to reset captcha incase the user finds it complex to
+        decode.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Inorder to reset the captch if the current image seems complex, press on the
+                    reset button <image class="- topic/image " height="20" href="file:/C:/Users/MyBle/OneDrive/Desktop/LoginPageExample/Screenshot%202024-01-09%20213115.png" id="unique_3_Connect_42_image_k4s_njx_11c" nd:nd-id="image_k4s_njx_11c" placement="inline" width="20"/> right next to the Captcha box</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></map>

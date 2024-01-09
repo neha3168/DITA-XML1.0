@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="complex_captcha_reset">
+    <title>Complex Captcha Reset</title>
+    <shortdesc>Here we define how to reset captcha incase the user finds it complex to
+        decode.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Inorder to reset the captch if the current image seems complex, press on the
+                    reset button <image href="Screenshot%202024-01-09%20213115.png" width="20"
+                        height="20" id="image_k4s_njx_11c"/> right next to the Captcha box</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
